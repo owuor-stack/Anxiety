@@ -1,0 +1,10 @@
+
+•	Gender (1 = male, 2 = female)
+•	Age (years)
+•	Weight (rounded to nearest kg) 
+•	Height (rounded to nearest centimeter) 
+•	SportGroup (Active, Inactive)
+•	Anxiety Score (as derived from the Social Physique Anxiety Scale)
+o	Value range from 9 – 45. Higher scores indicate higher levels of anxiety.
+
+Methodology
